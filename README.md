@@ -3,3 +3,6 @@ Checks your pc health, Helps optimise, Scans junk files, Reports anything suspic
 ===========
 HOW TO RUN:
 ===========
+1: Extract the file into your desired path
+2: Navigate to the '.bat' file of the game and Run it as an Administrator
+3: Enjoy!
